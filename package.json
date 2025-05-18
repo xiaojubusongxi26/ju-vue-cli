@@ -1,0 +1,21 @@
+{
+  "name": "ju-vue-cli",
+  "version": "1.0.0",
+  "description": "自用vue3脚手架",
+  "bin": {
+    "ju-vue-cli": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "tch",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^14.0.0",
+    "fs-extra": "^11.3.0",
+    "inquirer": "^12.6.1"
+  }
+}
